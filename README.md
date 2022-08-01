@@ -2,7 +2,7 @@ Hello world 👋
 
 I am Monica Randriamialy. I am a passionate front-end developer, designer and digital marketer.
 
-📍 Madrid, Spain
+📍 Santiago, Chile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
