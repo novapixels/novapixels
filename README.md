@@ -1,7 +1,6 @@
 Hello world 👋
 
-I am Monica Randriamialy. I am a passionate front-end developer, designer and digital marketer.
-
+I am Monica Randriamialy. I am a marketer and digital designer, with a passion for web development.
 📍 Santiago, Chile
 
 <h3 align="left">Connect with me:</h3>
